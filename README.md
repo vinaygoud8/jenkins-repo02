@@ -4,4 +4,3 @@ goud
 gattu
 devops
 engineer
-horizon
